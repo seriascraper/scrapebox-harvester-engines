@@ -1,0 +1,27 @@
+[Engine36]
+Displayname=DuckDuckGo
+QueryString=https://lite.duckduckgo.com/lite/?q={KEYWORD}
+MustBeInTag=
+MustNotBeInTag=
+MustBeInLink=http
+MustNotBeInLink=
+JustBeforeLink=<a rel="nofollow" href="
+RightAfterLink="
+PageStart=1
+PageInc=40
+NextPageMarker=<!-- <a rel="next"
+Translation=
+headerData=
+Referer=0
+SSLVersion=2
+Favicon=
+GracePeriod=0
+UserAgent=
+Selected=1
+DetailedSelected=0
+FollowRelocation=1
+AddRelative=
+AddFieldValue=
+ClearCookies=0
+ListMode=0
+ReadOnly=0
