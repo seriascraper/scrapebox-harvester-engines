@@ -5,11 +5,11 @@ MustBeInTag=
 MustNotBeInTag=
 MustBeInLink=http
 MustNotBeInLink=
-JustBeforeLink=<a rel="nofollow" href="
+JustBeforeLink=<a rel="nofollow" href="
 RightAfterLink="
-PageStart=1
-PageInc=40
-NextPageMarker=<!-- <a rel="next"
+PageStart=
+PageInc=
+NextPageMarker=<!-- <a rel="next" 
 Translation=
 headerData=
 Referer=0
@@ -17,7 +17,7 @@ SSLVersion=2
 Favicon=
 GracePeriod=0
 UserAgent=
-Selected=1
+Selected=0
 DetailedSelected=0
 FollowRelocation=1
 AddRelative=
